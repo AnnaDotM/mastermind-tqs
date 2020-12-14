@@ -135,5 +135,8 @@ public class Model {
 		this.initializeLists();
 		
 	}
+	public void resetCountWhite() {
+		countWhite = 0;
+	}
 	
 }
